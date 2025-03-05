@@ -1,5 +1,3 @@
-Here is the full `README.md` file for your project:
-
 ```markdown
 # Express Assignment
 
@@ -28,7 +26,7 @@ This project is an Express.js application that demonstrates the creation of REST
 
 2. Clone the repository and navigate to the project folder:
    ```sh
-   git clone <repository_url>
+   git clone https://github.com/PLP-Full-Stack-Development-MERN/week-2-express-js-fundamentals-assignment-Tiffany-kay.git
    cd express-assignment
    ```
 
@@ -102,4 +100,3 @@ If you'd like to contribute, please fork the repository and use a feature branch
 
 ## License
 This project is licensed under the MIT License.
-```
